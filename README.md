@@ -15,21 +15,23 @@ Scroll down to view each file’s 3D structure, with color-coded atoms and backb
 Installation
 1. Clone the Repository
    ```bash
-  git clone https://github.com/your-username/3d-protein-structure-visualization.git
-  cd 3d-protein-structure-visualization
+     git clone https://github.com/your-username/3d-protein-structure-visualization.git
+     cd 3d-protein-structure-visualization
   
 2. Create a Virtual Environment
     ```bash
-  python3 -m venv venv
-  source venv/bin/activate  # For Linux/macOS
-  venv\Scripts\activate     # For Windows
+     python3 -m venv venv
+     source venv/bin/activate  # For Linux/macOS
+     venv\Scripts\activate     # For Windows
 
 3. Install Dependencies Install Flask, BioPython, and Plotly:
    ```bash
-  pip install Flask BioPython Plotly
+     pip install Flask BioPython Plotly
 
 4. Run the Application:
    ```bash
-  python app.py
+     python app.py
 
+![Screenshot From 2024-10-29 14-33-39](https://github.com/user-attachments/assets/879f470b-0217-4beb-82b3-7ea1a11a608f)
+![Screenshot From 2024-10-29 14-33-22](https://github.com/user-attachments/assets/02f2efff-71c2-4936-9875-eaa3ad8b17ff)
 
